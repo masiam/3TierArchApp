@@ -23,7 +23,7 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 
 
 ## 📌 **Connect with Me**  
-- **LinkedIn**: [Kastro Kiran](https://www.linkedin.com/in/kastro-kiran/)  
+- **LinkedIn**: [Kastro Kiran](https://www.linkedin.com/in/aditya-raj-dr/)  
 
 
 
