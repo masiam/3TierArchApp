@@ -6,13 +6,14 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 ---
 
 ## 🚀 **In this Project, I have used the following AWS services:**
+Special Thanks to my mentor Kastro Kiran..........
 
-- **VPC**  
-- **S3**  
-- **IAM**  
-- **EC2**  
+- **VPC for custom network**  
+- **S3 for application code**  
+- **IAM for connection of private ip of application ec2 via amazonec2roleforssm**  
+- **EC2 (created 2 virtual server 1 for web tier another one for application tier)**  
 - **RDS**  
-- **Route 53**
+- **Route 53(haven't used this since it was paid and my account is a free tier one)**
 
 ---
 
