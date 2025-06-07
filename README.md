@@ -6,7 +6,7 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 ---
 
 ## 🚀 **In this Project, I have used the following AWS services:**
-Special Thanks to my mentor Kastro Kiran..........
+Special Thanks to my mentor Kastro Kiran for all the help during this project..........
 
 - **VPC for custom network**  
 - **S3 for application code**  
@@ -16,10 +16,6 @@ Special Thanks to my mentor Kastro Kiran..........
 - **Route 53(haven't used this since it was paid and my account is a free tier one)**
 
 ---
-
-## 🛠️ **Getting Started**
-
-1. **Fork and Clone** the repository to get started.  
 
 
 
